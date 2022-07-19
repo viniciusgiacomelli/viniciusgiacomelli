@@ -68,10 +68,11 @@ __Eu sou um desenvolvedor brasileiro freelancer voltado para aplicações mobile
 
 ## Obrigado por visitar o meu perfil :wave:
 
-### Meus projetos principais estão aqui em baixo, vai lá dar uma olhada.    
+### Meus projetos principais estão aqui em baixo, vai lá dar uma olhada.
+   
+[![kratos agradecendo a visita](https://user-images.githubusercontent.com/41841454/167220106-fdcd138f-7a91-4dfd-9a94-b5ef671b859c.gif)](#)   
+   
 Aproveite e me encontre nas redes sociais:  
 [![badge linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-giacomelli/) 
-[![badge twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vinygiacomelli)   
-[![kratos agradecendo a visita](https://user-images.githubusercontent.com/41841454/167220106-fdcd138f-7a91-4dfd-9a94-b5ef671b859c.gif)](#)   
-
+[![badge twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vinygiacomelli) 
 
