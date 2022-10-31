@@ -31,22 +31,15 @@ nunca vai mentir e te magoar.
 
 -->
 
-# Olá! Eu sou o Vinicius Giacomelli :smile: :space_invader: :doughnut:
+# Olá! Eu sou o Vinicius Giacomelli :sunglasses: :books: :atom:
 
 __Eu sou um desenvolvedor brasileiro freelancer voltado para aplicações mobile e web. Sou formado em Análise e Desenvolvimento de Sistemas e atualmente trabalho principalmente com Android e Flutter. No meu tempo livre gosto de jogar videogame, ouvir música, fazer musculação e brincar com os doguitos.__
 
 ## :star: Tecnologias nas quais tenho maior conhecimento :star: ##
 
 [![logo java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](#)
-[![logo dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](#)
-[![logo flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](#)
-[![logo android](https://img.shields.io/badge/Android-33DDC84?style=for-the-badge&logo=android&logoColor=white)](#)
-[![logo android studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)](#)
 [![logo spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](#)
-[![logo firebase](https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white)](#)
-[![logo google cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](#)
-[![logo google playstore](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](#)
-[![logo sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](#)
+[![logo angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](#)
 [![logo json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)](#)
 [![logo github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](#)
 
