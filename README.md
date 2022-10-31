@@ -31,29 +31,25 @@ nunca vai mentir e te magoar.
 
 -->
 
-# Olá! Eu sou o Vinicius Giacomelli :sunglasses: :books: :atom:
+# Olá! Eu sou o Vinicius Giacomelli :sunglasses: :books: :globe_with_meridians:
 
-__Eu sou um desenvolvedor brasileiro freelancer voltado para aplicações mobile e web. Sou formado em Análise e Desenvolvimento de Sistemas e atualmente trabalho principalmente com Android e Flutter. No meu tempo livre gosto de jogar videogame, ouvir música, fazer musculação e brincar com os doguitos.__
+__Eu sou um desenvolvedor brasileiro freelancer voltado para aplicações mobile e web. Sou formado em Análise e Desenvolvimento de Sistemas e atualmente trabalho principalmente com Java. No meu tempo livre gosto de jogar videogame, ouvir música, fazer musculação e brincar com os doguitos.__
 
 ## :star: Tecnologias nas quais tenho maior conhecimento :star: ##
 
 [![logo java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](#)
 [![logo spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](#)
+[![logo quarkus](https://img.shields.io/badge/Quarkus-000000?style=for-the-badge&logo=quarkus)](#)
 [![logo angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](#)
-[![logo json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)](#)
 [![logo github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](#)
 
-## :books: Tecnologias que uso e estou me desenvolvendo ##
+## :books: Tecnologias que uso com frequência ##
 
 [![logo html5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)](#)
 [![logo css3](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](#)
-[![logo styled components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)](#)
 [![logo javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
 [![logo typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](#)
-[![logo react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
 [![logo mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](#)
-[![logo netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](#)
-[![logo heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](#)
 
 ## :white_check_mark: Minhas estatísticas ##
 
