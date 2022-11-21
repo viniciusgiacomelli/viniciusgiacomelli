@@ -40,7 +40,7 @@ __Eu sou um desenvolvedor brasileiro freelancer voltado para o backend de aplica
 | Badge | Descrição |
 | --- | --- |
 | [![logo java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=kofi&logoColor=white)](#) | Java 8, 9 ,11, 17 (Estudando 19). |
-| [![logo hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)](#) | Mapeamento de ORM com hibernate. |   
+| [![logo hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)](#) | Mapeamento ORM com hibernate. |   
 | [![logo spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](#) [![logo spring security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white)](#)| Inclui todo o ecossistema Spring, como Spring Data & SpringSecurity |
 | [![logo quarkus](https://img.shields.io/badge/Quarkus-000000?style=for-the-badge&logo=quarkus)](#) | Desenvolvimento de aplicações Cloud Native com Quarkus |
 | [![logo postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](#) | Documentação e testagem com Postman. |
