@@ -71,7 +71,7 @@ __Eu sou um desenvolvedor brasileiro freelancer voltado para o backend de aplica
 
 [![Card mostrando estatísticas do perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viniciusgiacomelli&theme=solarized_dark)](#)
 
-## Obrigado por visitar o meu perfil :wave:
+# Obrigado por visitar o meu perfil :wave:
 
 ### Meus projetos principais estão aqui em baixo, vai lá dar uma olhada.
    
