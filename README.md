@@ -79,5 +79,3 @@ __Eu sou um desenvolvedor brasileiro freelancer voltado para o backend de aplica
    
 Aproveite e me encontre nas redes sociais:  
 [![badge linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-giacomelli/) 
-[![badge twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vinygiacomelli) 
-
