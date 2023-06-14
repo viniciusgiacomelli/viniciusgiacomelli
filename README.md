@@ -33,7 +33,7 @@ nunca vai mentir e te magoar.
 
 # Olá! Eu sou o Vinicius Giacomelli :smile: :books: :globe_with_meridians:
 
-__Eu sou um desenvolvedor brasileiro freelancer voltado para o backend de aplicações web complexas com arquitetura em microsserviços e hospedagem cloud. Sou formado em Análise e Desenvolvimento de Sistemas e atualmente trabalho principalmente com Java. Desenvolvo meus produtos sempre aplicando as melhores arquiteturas de software e boas práticas e Design Patterns como SOLID, Domain Driven Design e Clean Architecture. No meu tempo livre gosto de jogar videogame, ouvir música, fazer musculação e brincar com os doguitos.__
+__Eu sou um desenvolvedor brasileiro voltado para o backend de aplicações web complexas com arquitetura em microsserviços e hospedagem cloud. Sou formado em Análise e Desenvolvimento de Sistemas e atualmente trabalho principalmente com Java. Desenvolvo meus produtos sempre aplicando as melhores arquiteturas de software e boas práticas e Design Patterns como SOLID, Domain Driven Design e Clean Architecture. No meu tempo livre gosto de jogar videogame, ouvir música, fazer musculação e brincar com os doguitos.__
 
  ## :star: Tecnologias nas quais tenho maior conhecimento :star: ## 
  
