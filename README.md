@@ -35,7 +35,10 @@ nunca vai mentir e te magoar.
 
 __Eu sou um desenvolvedor brasileiro voltado para o backend de aplicações web complexas com arquitetura em microsserviços e hospedagem cloud. Desenvolvo meus produtos sempre aplicando as melhores arquiteturas de software e boas práticas e Design Patterns como SOLID, Domain Driven Design e Clean Architecture.   
 Gosto de me envolver em todas as etapas da aplicação, desde a criação, até a hospedagem e manutenção.   
-No meu tempo livre gosto de jogar videogame, ouvir música, fazer musculação e brincar com os doguitos.__
+No meu tempo livre gosto de jogar videogame, ouvir música, fazer musculação e brincar com os doguitos.__   
+
+Aproveite e me encontre nas redes sociais:  
+[![badge linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-giacomelli/)    
 
  ## :star: Tecnologias nas quais tenho maior conhecimento :star: ## 
  
@@ -78,6 +81,3 @@ No meu tempo livre gosto de jogar videogame, ouvir música, fazer musculação e
 ### Meus projetos principais estão aqui em baixo, vai lá dar uma olhada.
    
 [![kratos agradecendo a visita](https://user-images.githubusercontent.com/41841454/167220106-fdcd138f-7a91-4dfd-9a94-b5ef671b859c.gif)](#)   
-   
-Aproveite e me encontre nas redes sociais:  
-[![badge linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-giacomelli/) 
